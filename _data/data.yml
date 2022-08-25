@@ -7,37 +7,34 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  name: Agustin Palma Mardones # Nombre completo
+  tagline: Ruby on Rails Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: palma.agustin7@gmail.com
+  phone: +56986499545
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  linkedin: https://www.linkedin.com/in/agustinpalmam/
+  github: https://github.com/AgustinPalmaM
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
+  codewars: https://www.codewars.com/users/AgustinPalmaM
   goodreads: # Number-Username, e.g. 123456-alandoe
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: EF SET English Certificate 64/100 (C1 Advanced) # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: German
-      level: Colloquial
-
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-    - item: Communication
+    - item: Good Communication
       link: # dejar en blanco
 
     - item: Team Work
@@ -50,91 +47,82 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    I am ruby on rails developer, really love the simplicity of this framework and its configuration convention, i am always studying to learn more, I want to constantly improve my programming skills, and contribute to an organization with my 100% commitment. 
+
+
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Computer analysis and programming
+    university: IACC Professional Institute - Chile
+    time: 2022 January - current
     details: |
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
+  - degree: Ruby on Rail developer
+    university: BrightCoders from Magma Labs
+    time: 2022 
     details: |
-      Unsupervised deep learning for automatic behavior analysis
+      Contents:
+        Test-driven development (Minitest -RSpec)
+        Advanced administration of local and remote repositories (Git - Github)
+        Code quality (Rubocop, SandiMeter, RubyCritic)
+        Database access (PostgreSQL)
+        agile methodology
+        project planning
+        Project administration
+        Deployment of the web application (Heroku)
 
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
+#  Registra aquí tu experiencia. Agrega o elimina según sea necesario
+# experiences:
+#   - role: Lead Developer
+#     time: 2015 - Present
+#     company: Startup Hubs, San Francisco
+#     details: |
+#       Describe your role here lorem ipsum dolor sit amet, consectetuer
+#       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#       Cum sociis natoque penatibus et magnis dis parturient montes,
+#       nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#       pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+#       enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+#       error sit voluptatem accusantium doloremque laudantium, totam rem
+#       aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+#       architecto beatae vitae dicta sunt explicabo.
+#         - Bullet point
+#         - Bullet point
 
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
-
-# Registra aquí tu experiencia. Agrega o elimina según sea necesario
-experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+#   - role: Senior Software Engineer
+#     time: 2014 - 2015
+#     company: Google, London
+#     details: |
+#       Describe your role here lorem ipsum dolor sit amet, consectetuer
+#       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#       Cum sociis natoque penatibus et magnis dis parturient montes,
+#       nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#       pellentesque eu, pretium quis, sem.
 # Registra aquí los proyectos en los que has participado
-projects:
-    title: Projects
+# projects:
+#     title: Projects
     
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
         
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -146,23 +134,23 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
-
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
+    - name: Ruby
       level: 60%
 
-    - name: Caffe
+    - name: Ruby on Rails
+      level: 60%
+
+    - name: HTML
       level: 80%
 
-    - name: Matlab
-      level: 100%
+    - name: CSS
+      level: 80%
 
-    - name: C/C++
-      level: 40%
+    - name: PostgreSQL
+      level: 60%
+
+    - name: Javascript
+      level: 60%
 
 # NO MODIFICAR
 footer: >
