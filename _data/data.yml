@@ -34,20 +34,25 @@ sidebar:
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-    - item: Good Communication
+    - item: Proactive
       link: # dejar en blanco
 
-    - item: Team Work
+    - item: Teamwork
       link: # dejar en blanco
 
-    - item: Time Management
+    - item: Empathy
       link: # dejar en blanco
 
+    - item: Autodidact
+      link: # dejar en blanco
+
+    - item: Good organization of time
+      link: # dejar en blanco
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    I am ruby on rails developer, really love the simplicity of this framework and its configuration convention, i am always studying to learn more, I want to constantly improve my programming skills, and contribute to an organization with my 100% commitment. 
+    I am ruby on rails developer, i really love the simplicity of this framework and its configuration convention, i am always studying to learn more, I want to constantly improve my programming skills, and contribute to an organization with my 100% commitment. 
 
 
 
