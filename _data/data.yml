@@ -15,13 +15,13 @@ sidebar:
   email: palma.agustin7@gmail.com
   phone: +56986499545
   website: # No agregar http://
-  linkedin: https://www.linkedin.com/in/agustinpalmam/
-  github: https://github.com/AgustinPalmaM
+  linkedin: agustinpalmam
+  github: AgustinPalmaM
   gitlab:
   bitbucket:
   twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars: https://www.codewars.com/users/AgustinPalmaM
+  codewars: AgustinPalmaM
   goodreads: # Number-Username, e.g. 123456-alandoe
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
@@ -76,6 +76,19 @@ educationcomplete:
         project planning
         Project administration
         Deployment of the web application (Heroku)
+
+  - degree: Full Stack Ruby on Rails
+    university: The Odin Project
+    time: 2022 July - current
+    details: |
+      Contents:
+        Ruby
+        Ruby on Rails
+        HTML - CSS
+        Databases
+        Javascript
+
+
 
 #  Registra aquí tu experiencia. Agrega o elimina según sea necesario
 # experiences:
